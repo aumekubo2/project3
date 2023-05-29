@@ -1,0 +1,207 @@
+city,postcode,street,address2,Transport_Type,Transport,Route,longitude,latitude
+Miami,33131,Brickell Avenue,"Brickell Avenue, Miami, FL 33131, United States of America",City of Miami;Miami-Dade Transit,bus_stop,Brickell Av & SE 13th St,-80.192101,25.761338
+Miami,33131,Southeast 13th Street,"Southeast 13th Street, Miami, FL 33131, United States of America",Broward County Transit;Miami-Dade Transit,bus_stop,SE 13th St & Brickell Av,-80.192501,25.761723
+Miami,33131,Brickell Avenue,"Brickell Avenue, Miami, FL 33131, United States of America",City of Miami;Miami-Dade Transit,bus_stop,Brickell Av & SE 14th Te,-80.192567,25.759549
+Miami,33131,Brickell Avenue,"Brickell Avenue, Miami, FL 33131, United States of America",City of Miami;Miami-Dade Transit,bus_stop,Brickell Av & SE 15th Rd,-80.193283,25.757799
+Miami,33131,Brickell Avenue,"Brickell Avenue, Miami, FL 33131, United States of America",City of Miami;Miami-Dade Transit,bus_stop,Brickell Av & SE 15th Rd,-80.193299,25.757500
+Miami,33131,Southwest 2nd Avenue,"Southwest 2nd Avenue, Miami, FL 33131, United States of America",City of Miami;Miami-Dade Transit,bus_stop,SW 2nd Av & SW 11th St,-80.197212,25.763255
+Miami,33129,Southwest 13th Street,"Southwest 13th Street, Miami, FL 33129, United States of America",Miami-Dade Transit,bus_stop,SW 13th St & SW 2nd Av,-80.197962,25.761537
+Miami,33129,Southwest 13th Street,"Southwest 13th Street, Miami, FL 33129, United States of America",Miami-Dade Transit,bus_stop,SW 13th St & SW 3rd Av,-80.198300,25.761360
+Miami,33145,Southwest 3rd Avenue,"Southwest 3rd Avenue, Miami, FL 33145, United States of America",City of Miami,bus_stop,SW 3rd Av & SW 15th Rd,-80.199446,25.761226
+Miami,33131,Southwest 8th Street,"Southwest 8th Street, Miami, FL 33131, United States of America",Miami-Dade Transit,bus_stop,SW 8th St & SW 2nd Av,-80.197901,25.766190
+Miami,33129,Brickell Avenue,"Brickell Avenue, Miami, FL 33129, United States of America",City of Miami;Miami-Dade Transit,bus_stop,Brickell Av & 1800 Blk,-80.196361,25.755688
+Miami,33129,Brickell Avenue,"Brickell Avenue, Miami, FL 33129, United States of America",City of Miami;Miami-Dade Transit,bus_stop,Brickell Av & 1800 Blk,-80.196211,25.755467
+Miami,33130,Southwest 7th Street,"Southwest 7th Street, Miami, FL 33130, United States of America",Miami-Dade Transit,bus_stop,SW 7th St & SW 2nd Av,-80.197963,25.767303
+Miami,33145,Southwest 3rd Avenue,"Southwest 3rd Avenue, Miami, FL 33145, United States of America",City of Miami,bus_stop,SW 3rd Av & SW 18th Rd,-80.201151,25.760073
+Miami,33130,I 95,"I 95, Miami, FL 33130, United States of America",Miami-Dade Transit,bus_stop,SW 7th St & SW 4th Av,-80.200507,25.767244
+Miami,33129,Brickell Avenue,"Brickell Avenue, Miami, FL 33129, United States of America",City of Miami;Miami-Dade Transit,bus_stop,Brickell Av & 1925 Blk,-80.198477,25.753928
+Miami,33145,Southwest 3rd Avenue,"Southwest 3rd Avenue, Miami, FL 33145, United States of America",City of Miami;Miami-Dade Transit,bus_stop,SW 3rd Av & SW 19th Rd,-80.202628,25.759423
+Miami,33129,Brickell Avenue,"Brickell Avenue, Miami, FL 33129, United States of America",City of Miami;Miami-Dade Transit,bus_stop,Brickell Av & 1990 Blk,-80.198911,25.753932
+Miami,33129,Southwest 2nd Avenue,"Southwest 2nd Avenue, Miami, FL 33129, United States of America",City of Miami;Miami-Dade Transit,bus_stop,SW 2nd Av & SW 3rd St,-80.197706,25.770713
+Miami,33130,Southwest 8th Street,"Southwest 8th Street, Miami, FL 33130, United States of America",Miami-Dade Transit,bus_stop,SW 8th St & SW 5th Av,-80.202592,25.766062
+Miami,33145,Southwest 3rd Avenue,"Southwest 3rd Avenue, Miami, FL 33145, United States of America",City of Miami;Miami-Dade Transit,bus_stop,SW 3rd Av & SW 20th Rd,-80.203267,25.758621
+Miami,33130,Southwest 7th Street,"Southwest 7th Street, Miami, FL 33130, United States of America",Miami-Dade Transit,bus_stop,SW 7th St & SW 5th Av,-80.202130,25.767182
+Miami,33129,Southwest 2nd Avenue,"Southwest 2nd Avenue, Miami, FL 33129, United States of America",City of Miami;Miami-Dade Transit,bus_stop,SW 2nd Av & SW 3rd St,-80.197497,25.771262
+Miami,33131,Southeast 1st Street,"Southeast 1st Street, Miami, FL 33131, United States of America",Broward County Transit;City of Miami;Miami-Dade Transit,bus_stop,SE 1st St & SE 1st Av,-80.191460,25.773317
+Miami,33129,Brickell Avenue,"Brickell Avenue, Miami, FL 33129, United States of America",City of Miami;Miami-Dade Transit,bus_stop,Brickell Av & 2127 Blk,-80.200240,25.752723
+Miami,33131,Southwest 1st Avenue,"Southwest 1st Avenue, Miami, FL 33131, United States of America",Miami-Dade Transit,bus_stop,SW 1st Av & SW 1st St,-80.195621,25.772987
+Miami,33145,Southwest 3rd Avenue,"Southwest 3rd Avenue, Miami, FL 33145, United States of America",City of Miami,bus_stop,SW 3rd Av & SW 21st Rd,-80.204374,25.758189
+Miami,33130,Southwest 2nd Street,"Southwest 2nd Street, Miami, FL 33130, United States of America",Miami-Dade Transit,bus_stop,SW 2nd St & SW 2nd Av,-80.197895,25.772311
+Miami,33131,Southeast 1st Street,"Southeast 1st Street, Miami, FL 33131, United States of America",Miami-Dade Transit,bus_stop,SE 1st St & SE 3rd Av,-80.188723,25.773402
+Miami,33135,Southwest 1st Street,"Southwest 1st Street, Miami, FL 33135, United States of America",City of Miami;Miami-Dade Transit,bus_stop,SW 1st St & SW 1st Ct,-80.196643,25.773152
+Miami,33131,Southeast 1st Avenue,"Southeast 1st Avenue, Miami, FL 33131, United States of America",Broward County Transit;Miami-Dade Transit,bus_stop,SE 1st Av & E Flagler St,-80.191856,25.774053
+Miami,33131,Southwest 1st Avenue,"Southwest 1st Avenue, Miami, FL 33131, United States of America",Broward County Transit;Miami-Dade Transit,bus_stop,SW 1st Av & SW 1st St,-80.195661,25.773553
+Miami,33145,Southwest 3rd Avenue,"Southwest 3rd Avenue, Miami, FL 33145, United States of America",City of Miami,bus_stop,SW 3rd Av & SW 22nd Rd,-80.204885,25.757500
+Miami,33129,Brickell Avenue,"Brickell Avenue, Miami, FL 33129, United States of America",City of Miami;Miami-Dade Transit,bus_stop,Brickell Av & 2451 Blk,-80.201205,25.752384
+Miami,33131,West Flagler Street,"West Flagler Street, Miami, FL 33131, United States of America",Miami-Dade Transit,bus_stop,Downtown Terminal,-80.195913,25.773776
+Miami,33131,Southwest 1st Avenue,"Southwest 1st Avenue, Miami, FL 33131, United States of America",Miami-Dade Transit,bus_stop,Downtown Terminal,-80.195688,25.773911
+Miami,33130,Southwest 8th Street,"Southwest 8th Street, Miami, FL 33130, United States of America",Miami-Dade Transit,bus_stop,SW 8th St & SW 7th Av,-80.205386,25.765983
+Miami,33128,Northwest 1st Avenue,"Northwest 1st Avenue, Miami, FL 33128, United States of America",Miami-Dade Transit,bus_stop,NW 1st Av & W Flagler St,-80.195658,25.774446
+Miami,33132,Northeast 1st Avenue,"Northeast 1st Avenue, Miami, FL 33132, United States of America",Miami-Dade Transit,bus_stop,NE 1st Av & NE 1st St,-80.191908,25.775061
+Miami,33129,Brickell Avenue,"Brickell Avenue, Miami, FL 33129, United States of America",City of Miami;Miami-Dade Transit,bus_stop,Brickell Av & 2451 Blk,-80.201678,25.751715
+Miami,33131,West Flagler Street,"West Flagler Street, Miami, FL 33131, United States of America",Miami-Dade Transit,bus_stop,W Flagler St & W 2nd Avenue,-80.197378,25.774125
+Miami,33132,Northeast 1st Street,"Northeast 1st Street, Miami, FL 33132, United States of America",Broward County Transit;City of Miami;Miami-Dade Transit,bus_stop,NE 1st St & NE 1st Av,-80.192393,25.775211
+Miami,33145,Southwest 3rd Avenue,"Southwest 3rd Avenue, Miami, FL 33145, United States of America",City of Miami,bus_stop,SW 3rd Av & SW 23rd Rd,-80.205929,25.757142
+Miami,33131,Northwest 1st Street,"Northwest 1st Street, Miami, FL 33131, United States of America",Broward County Transit;Miami-Dade Transit,bus_stop,NW 1st St & N Miami Av,-80.193978,25.775154
+Miami,33145,Southwest 3rd Avenue,"Southwest 3rd Avenue, Miami, FL 33145, United States of America",City of Miami;Miami-Dade Transit,bus_stop,SW 3rd Av & SW 24th Rd,-80.206052,25.756697
+Miami,33130,Southwest 7th Street,"Southwest 7th Street, Miami, FL 33130, United States of America",Miami-Dade Transit,bus_stop,SW 7th St & SW 7th Av,-80.206099,25.767065
+Miami,33128,Northwest 1st Avenue,"Northwest 1st Avenue, Miami, FL 33128, United States of America",Miami-Dade Transit,bus_stop,NW 1st Av & NW 1st St,-80.195367,25.775491
+Miami,33128,Northwest 1st Street,"Northwest 1st Street, Miami, FL 33128, United States of America",City of Miami;Miami-Dade Transit,bus_stop,Stephen P. Clark Center,-80.197256,25.775074
+Miami,33128,Northwest 1st Street,"Northwest 1st Street, Miami, FL 33128, United States of America",Miami-Dade Transit,bus_stop,Stephen P. Clark Center,-80.197426,25.775072
+Miami,33129,Brickell Avenue,"Brickell Avenue, Miami, FL 33129, United States of America",Miami-Dade Transit,bus_stop,Brickell Av & SE 25th Rd,-80.202725,25.751325
+Miami,33129,Brickell Avenue,"Brickell Avenue, Miami, FL 33129, United States of America",City of Miami;Miami-Dade Transit,bus_stop,Brickell Av & SE 25th Rd,-80.202661,25.751045
+Miami,33132,Northeast 1st Avenue,"Northeast 1st Avenue, Miami, FL 33132, United States of America",Miami-Dade Transit,bus_stop,NE 1st Av & NE 2nd St,-80.191954,25.776435
+Miami,33130,Southwest 7th Street,"Southwest 7th Street, Miami, FL 33130, United States of America",Miami-Dade Transit,bus_stop,SW 7th St & SW 8th Av,-80.207213,25.767037
+Miami,33130,Southwest 8th Street,"Southwest 8th Street, Miami, FL 33130, United States of America",Miami-Dade Transit,bus_stop,SW 8th St & SW 8th Av,-80.207652,25.765911
+Miami,33145,Southwest 3rd Avenue,"Southwest 3rd Avenue, Miami, FL 33145, United States of America",Miami-Dade Transit,bus_stop,SW 3rd Av & SW 25th Rd,-80.207593,25.755996
+Miami,33132,Biscayne Boulevard,"Biscayne Boulevard, Miami, FL 33132, United States of America",City of Miami;Miami-Dade Transit,bus_stop,Biscayne Bd & NE 2nd St,-80.187516,25.776606
+Miami,33132,Northeast 3rd Street,"Northeast 3rd Street, Miami, FL 33132, United States of America",Miami-Dade Transit,bus_stop,NE 3rd St & NE 2nd Av,-80.189978,25.777220
+Miami,33128,Northwest 2nd Avenue,"Northwest 2nd Avenue, Miami, FL 33128, United States of America",Miami-Dade Transit,bus_stop,NW 2nd Av & NW 2nd St,-80.197726,25.776376
+Miami,33128,Northwest 2nd Avenue,"Northwest 2nd Avenue, Miami, FL 33128, United States of America",Miami-Dade Transit,bus_stop,NW 2nd Av & NW 2nd St,-80.197873,25.776401
+Miami,33129,Rickenbacker Causeway,"Rickenbacker Causeway, Miami, FL 33129, United States of America",Miami-Dade Transit,bus_stop,Rickenbacker Cy & Hobie Cat Beach,-80.195161,25.746163
+Miami,33128,Northwest 3rd Street,"Northwest 3rd Street, Miami, FL 33128, United States of America",Miami-Dade Transit,bus_stop,NW 3rd St & NW 2nd Av,-80.196952,25.776885
+Miami,33132,Northeast 1st Avenue,"Northeast 1st Avenue, Miami, FL 33132, United States of America",Miami-Dade Transit,bus_stop,NE 1st Av & NE 4th St,-80.191927,25.777706
+Miami,33129,Rickenbacker Trail,"Rickenbacker Trail, Miami, FL 33129, United States of America",Miami-Dade Transit,bus_stop,Rickenbacker Cy & Restrooms,-80.194193,25.745830
+Miami,33130,Southwest 8th Street,"Southwest 8th Street, Miami, FL 33130, United States of America",Miami-Dade Transit,bus_stop,SW 8th St & SW 9th Av,-80.209030,25.765875
+Miami,33132,Biscayne Boulevard,"Biscayne Boulevard, Miami, FL 33132, United States of America",Miami-Dade Transit,bus_stop,Biscayne Bd & NE 3rd St,-80.188491,25.777593
+Miami,33137,Northeast 2nd Avenue,"Northeast 2nd Avenue, Miami, FL 33137, United States of America",City of Miami;Miami-Dade Transit,bus_stop,NE 2nd Av & NE 4th St,-80.190486,25.777861
+Miami,33132,North Miami Avenue,"North Miami Avenue, Miami, FL 33132, United States of America",Miami-Dade Transit,bus_stop,N Miami Av & N 4th St,-80.193814,25.777806
+Miami,33145,Southwest 3rd Avenue,"Southwest 3rd Avenue, Miami, FL 33145, United States of America",City of Miami;Miami-Dade Transit,bus_stop,SW 3rd Av & SW 26th Rd,-80.208332,25.755127
+Miami,33145,Southwest 3rd Avenue,"Southwest 3rd Avenue, Miami, FL 33145, United States of America",City of Miami;Miami-Dade Transit,bus_stop,SW 3rd Av & SW 26th Rd,-80.208535,25.755349
+Miami,33128,West Flagler Street,"West Flagler Street, Miami, FL 33128, United States of America",Miami-Dade Transit,bus_stop,W Flagler St & NW 6th Av,-80.204029,25.773973
+Miami,33128,Northwest 1st Avenue,"Northwest 1st Avenue, Miami, FL 33128, United States of America",Broward County Transit;Miami-Dade Transit,bus_stop,NW 1st Av & NW 4th St,-80.195394,25.778014
+Miami,33129,Rickenbacker Trail,"Rickenbacker Trail, Miami, FL 33129, United States of America",Miami-Dade Transit,bus_stop,Rickenbacker Cy & Hobie Cat Beach,-80.197386,25.745843
+Miami,33132,Biscayne Boulevard,"Biscayne Boulevard, Miami, FL 33132, United States of America",City of Miami;Miami-Dade Transit,bus_stop,Biscayne Bd & NE 4th St,-80.187895,25.777971
+Miami,33130,Southwest 7th Street,"Southwest 7th Street, Miami, FL 33130, United States of America",Miami-Dade Transit,bus_stop,SW 7th St & SW 9th Av,-80.209303,25.766970
+Miami,33128,Northwest 2nd Avenue,"Northwest 2nd Avenue, Miami, FL 33128, United States of America",Broward County Transit;Miami-Dade Transit,bus_stop,NW 2nd Av & NW 3rd St,-80.197750,25.777606
+Miami,33128,Northwest 2nd Avenue,"Northwest 2nd Avenue, Miami, FL 33128, United States of America",Miami-Dade Transit,bus_stop,NW 2nd Av & NW 4th St,-80.197975,25.778000
+Miami,33132,Biscayne Boulevard,"Biscayne Boulevard, Miami, FL 33132, United States of America",Miami-Dade Transit,bus_stop,Biscayne Bd & NE 5th St,-80.188863,25.778840
+Miami,33132,Northeast 5th Street,"Northeast 5th Street, Miami, FL 33132, United States of America",City of Miami;Miami-Dade Transit,bus_stop,NE 2nd Av & NE 5th St,-80.190530,25.779173
+Miami,33128,West Flagler Street,"West Flagler Street, Miami, FL 33128, United States of America",Miami-Dade Transit,bus_stop,W Flagler St & NW 7th Av,-80.205907,25.773854
+Miami,33128,Northwest 5th Street,"Northwest 5th Street, Miami, FL 33128, United States of America",Miami-Dade Transit,bus_stop,NW 5th St & NW 2nd Av,-80.197373,25.778761
+Miami,33145,Southwest 3rd Avenue,"Southwest 3rd Avenue, Miami, FL 33145, United States of America",City of Miami,bus_stop,SW 3rd Av & SW 28th Rd,-80.209681,25.754203
+Miami,33128,Southwest 1st Street,"Southwest 1st Street, Miami, FL 33128, United States of America",Miami-Dade Transit,bus_stop,SW 1st St & SW 8th Av,-80.207462,25.772689
+Miami,33130,Southwest 8th Street,"Southwest 8th Street, Miami, FL 33130, United States of America",Miami-Dade Transit,bus_stop,SW 8th St & SW 10th Av,-80.211245,25.765866
+Miami,33132,Northeast 1st Avenue,"Northeast 1st Avenue, Miami, FL 33132, United States of America",Miami-Dade Transit,bus_stop,NE 1st Av & NE 6th St,-80.192073,25.779800
+Miami,33130,Southwest 7th Street,"Southwest 7th Street, Miami, FL 33130, United States of America",Miami-Dade Transit,bus_stop,SW 7th St & SW 10th Av,-80.211051,25.766911
+Miami,33128,Northwest 2nd Avenue,"Northwest 2nd Avenue, Miami, FL 33128, United States of America",Broward County Transit;Miami-Dade Transit,bus_stop,NW 2nd Av & NW 5th St,-80.197826,25.779085
+Miami,33128,Northwest 2nd Avenue,"Northwest 2nd Avenue, Miami, FL 33128, United States of America",Miami-Dade Transit,bus_stop,NW 2nd Av & NW 5th St,-80.197963,25.779093
+Miami,33128,Northwest 1st Avenue,"Northwest 1st Avenue, Miami, FL 33128, United States of America",Miami-Dade Transit,bus_stop,NW 1st Av & NW 6th St,-80.195235,25.779737
+Miami,33132,Northeast 6th Street,"Northeast 6th Street, Miami, FL 33132, United States of America",Miami-Dade Transit,bus_stop,NE 6th St & NE 1st Av,-80.192568,25.780027
+Miami,33128,Northwest 5th Street,"Northwest 5th Street, Miami, FL 33128, United States of America",Miami-Dade Transit,bus_stop,NW 5th St & NW 3rd Av,-80.199362,25.778722
+Miami,33128,Northwest 5th Street,"Northwest 5th Street, Miami, FL 33128, United States of America",Miami-Dade Transit,bus_stop,NW 5th St & NW 3rd Ct,-80.200348,25.778693
+Miami,33132,Biscayne Boulevard,"Biscayne Boulevard, Miami, FL 33132, United States of America",Miami-Dade Transit,bus_stop,Biscayne Bd & NE 6th St,-80.189301,25.780249
+Miami,33132,Northwest 6th Street,"Northwest 6th Street, Miami, FL 33132, United States of America",Miami-Dade Transit,bus_stop,NW 6th St & NW 1st Av,-80.196228,25.779954
+Miami,33137,Northeast 2nd Avenue,"Northeast 2nd Avenue, Miami, FL 33137, United States of America",Miami-Dade Transit,bus_stop,NE 2nd Av & NE 7th St,-80.190546,25.780683
+Miami,33128,Northwest 5th Street,"Northwest 5th Street, Miami, FL 33128, United States of America",Miami-Dade Transit,bus_stop,NW 5th St & NW 4th Av,-80.201396,25.778662
+Miami,33128,Northwest 6th Street,"Northwest 6th Street, Miami, FL 33128, United States of America",Miami-Dade Transit,bus_stop,NW 6th St & NW 2nd Av,-80.198273,25.779880
+Miami,33135,Southwest 1st Street,"Southwest 1st Street, Miami, FL 33135, United States of America",Miami-Dade Transit,bus_stop,SW 1st St & SW 9th Av,-80.209122,25.772639
+Miami,33136,Northwest 2nd Avenue,"Northwest 2nd Avenue, Miami, FL 33136, United States of America",Miami-Dade Transit,bus_stop,NW 2nd Av & NW 6th St,-80.198040,25.780078
+Miami,33145,Southwest 3rd Avenue,"Southwest 3rd Avenue, Miami, FL 33145, United States of America",City of Miami;Miami-Dade Transit,bus_stop,SW 3rd Av & SW 29th Rd,-80.211084,25.753610
+Miami,33128,West Flagler Street,"West Flagler Street, Miami, FL 33128, United States of America",Miami-Dade Transit,bus_stop,W Flagler St & NW 8th Av,-80.208355,25.773776
+Miami,33132,Biscayne Boulevard,"Biscayne Boulevard, Miami, FL 33132, United States of America",Miami-Dade Transit,bus_stop,Biscayne Bd & NE 7th St,-80.189120,25.781018
+Miami,33145,Southwest 3rd Avenue,"Southwest 3rd Avenue, Miami, FL 33145, United States of America",Miami-Dade Transit,bus_stop,SW 3rd Av & SW 30th Rd,-80.211399,25.753007
+Miami,33136,Northwest 6th Street,"Northwest 6th Street, Miami, FL 33136, United States of America",Miami-Dade Transit,bus_stop,NW 6th St & NW 4th Av,-80.201022,25.779776
+Miami,33128,Northwest 5th Street,"Northwest 5th Street, Miami, FL 33128, United States of America",Miami-Dade Transit,bus_stop,NW 5th St & NW 6th Av,-80.203654,25.778584
+Miami,33135,Southwest 1st Street,"Southwest 1st Street, Miami, FL 33135, United States of America",Miami-Dade Transit,bus_stop,SW 1st St & SW 10th Av,-80.210845,25.772563
+Miami,33136,Northwest 8th Street,"Northwest 8th Street, Miami, FL 33136, United States of America",Broward County Transit;Miami-Dade Transit,bus_stop,NW 8th St & NW 1st Av,-80.196100,25.781716
+Miami,33136,Northwest 8th Street,"Northwest 8th Street, Miami, FL 33136, United States of America",Miami-Dade Transit,bus_stop,NW 8th St & NW 1st Av,-80.196640,25.781694
+Miami,33136,Northwest 2nd Avenue,"Northwest 2nd Avenue, Miami, FL 33136, United States of America",Miami-Dade Transit,bus_stop,NW 2nd Av & NW 8th St,-80.198068,25.781451
+Miami,33136,Northwest 6th Street,"Northwest 6th Street, Miami, FL 33136, United States of America",Miami-Dade Transit,bus_stop,NW 6th St & NW 5th Av,-80.202703,25.779727
+Miami,33136,Northwest 2nd Avenue,"Northwest 2nd Avenue, Miami, FL 33136, United States of America",Broward County Transit;Miami-Dade Transit,bus_stop,NW 2nd Av & NW 8th St,-80.197883,25.781510
+Miami,33130,Southwest 8th Street,"Southwest 8th Street, Miami, FL 33130, United States of America",Miami-Dade Transit,bus_stop,SW 8th St & SW 12th Av,-80.214122,25.765793
+Miami,33128,Northwest 5th Street,"Northwest 5th Street, Miami, FL 33128, United States of America",Miami-Dade Transit,bus_stop,NW 5th St & NW 7th Av,-80.205336,25.778548
+Miami,33130,Southwest 7th Street,"Southwest 7th Street, Miami, FL 33130, United States of America",Miami-Dade Transit,bus_stop,SW 7th St & SW 12th Av,-80.214258,25.766813
+Miami,33132,Biscayne Boulevard,"Biscayne Boulevard, Miami, FL 33132, United States of America",Miami-Dade Transit,bus_stop,Biscayne Bd & NE 9th St,-80.189673,25.782594
+Miami,33132,Biscayne Boulevard,"Biscayne Boulevard, Miami, FL 33132, United States of America",Miami-Dade Transit,bus_stop,Biscayne Bd & NE 9th St,-80.189213,25.782651
+Miami,33145,Southwest 3rd Avenue,"Southwest 3rd Avenue, Miami, FL 33145, United States of America",Miami-Dade Transit,bus_stop,SW 3rd Av & SW 31st Rd,-80.212855,25.752377
+Miami,33136,Northwest 6th Street,"Northwest 6th Street, Miami, FL 33136, United States of America",Miami-Dade Transit,bus_stop,NW 6th St & NW 6th Av,-80.204393,25.779678
+Miami,33137,Northeast 2nd Avenue,"Northeast 2nd Avenue, Miami, FL 33137, United States of America",Miami-Dade Transit,bus_stop,NE 2nd Av & NE 9th St,-80.190655,25.783122
+Miami,33128,West Flagler Street,"West Flagler Street, Miami, FL 33128, United States of America",Miami-Dade Transit,bus_stop,W Flagler St & NW 10th Av,-80.211678,25.773685
+Miami,33130,Southwest 8th Street,"Southwest 8th Street, Miami, FL 33130, United States of America",Miami-Dade Transit,bus_stop,SW 8th St & SW 12th Ct,-80.215545,25.765754
+Miami,33136,Northwest 9th Street,"Northwest 9th Street, Miami, FL 33136, United States of America",Miami-Dade Transit,bus_stop,NW 9th St & NW 2nd Ct,-80.199040,25.782611
+Miami,33136,Northwest 9th Street,"Northwest 9th Street, Miami, FL 33136, United States of America",Miami-Dade Transit,bus_stop,NW 9th St & NW 2nd Ct,-80.198764,25.782727
+Miami,33129,M-Path,"M-Path, Miami, FL 33129, United States of America",Miami-Dade Transit,bus_stop,Vizcaya Station,-80.212169,25.749689
+Miami,33129,Southwest 22nd Street,"Southwest 22nd Street, Miami, FL 33129, United States of America",Miami-Dade Transit,bus_stop,SW 22nd Av & SW 32nd Av,-80.213073,25.751032
+Miami,33136,Northwest 6th Street,"Northwest 6th Street, Miami, FL 33136, United States of America",Miami-Dade Transit,bus_stop,NW 6th St & NW 7th Av,-80.205981,25.779631
+Miami,33129,M-Path,"M-Path, Miami, FL 33129, United States of America",Miami-Dade Transit,bus_stop,Vizcaya Station,-80.212363,25.749619
+Miami,33132,Northeast 1st Avenue,"Northeast 1st Avenue, Miami, FL 33132, United States of America",Miami-Dade Transit,bus_stop,NE 1st Av & NE 10th St,-80.192197,25.784057
+Miami,33129,M-Path,"M-Path, Miami, FL 33129, United States of America",Miami-Dade Transit,bus_stop,Vizcaya Station,-80.212535,25.749557
+Miami,33125,Northwest 4th Street,"Northwest 4th Street, Miami, FL 33125, United States of America",Miami-Dade Transit,bus_stop,NW 4th St & NW 9th Av,-80.209310,25.777638
+Miami,33129,M-Path,"M-Path, Miami, FL 33129, United States of America",Miami-Dade Transit,bus_stop,Vizcaya Station,-80.212722,25.749489
+Miami,33135,Southwest 1st Street,"Southwest 1st Street, Miami, FL 33135, United States of America",Miami-Dade Transit,bus_stop,SW 1st St & SW 12th Av,-80.213694,25.772475
+Miami,33125,Northwest 4th Street,"Northwest 4th Street, Miami, FL 33125, United States of America",Miami-Dade Transit,bus_stop,NW 4th St & NW 9th Av,-80.209760,25.777482
+Miami,33136,Northwest 10th Street,"Northwest 10th Street, Miami, FL 33136, United States of America",Miami-Dade Transit,bus_stop,NW 2nd Av & NW 10th St,-80.198160,25.783757
+Miami,33127,Northwest 3rd Avenue,"Northwest 3rd Avenue, Miami, FL 33127, United States of America",Miami-Dade Transit,bus_stop,NW 3rd Av & NW 10th St,-80.199793,25.783441
+Miami,33132,Biscayne Boulevard,"Biscayne Boulevard, Miami, FL 33132, United States of America",Miami-Dade Transit,bus_stop,Biscayne Bd & NE 11th St,-80.189611,25.784546
+Miami,33136,Northwest 2nd Avenue,"Northwest 2nd Avenue, Miami, FL 33136, United States of America",Miami-Dade Transit,bus_stop,NW 2nd Av & NW 10th St,-80.198006,25.783933
+Miami,33131,Rickenbacker Trail,"Rickenbacker Trail, Miami, FL 33131, United States of America",Miami-Dade Transit,bus_stop,Rickenbacker Cy & 3301 Blk,-80.174891,25.744597
+Miami,33132,Biscayne Boulevard,"Biscayne Boulevard, Miami, FL 33132, United States of America",Miami-Dade Transit,bus_stop,Biscayne Bd & NE 11th St,-80.189172,25.784566
+Miami,33131,Rickenbacker Causeway,"Rickenbacker Causeway, Miami, FL 33131, United States of America",Miami-Dade Transit,bus_stop,Rickenbacker Cy & 3301 Blk,-80.174161,25.744515
+Miami,33128,West Flagler Street,"West Flagler Street, Miami, FL 33128, United States of America",Miami-Dade Transit,bus_stop,W Flagler St & W 12th Av,-80.214429,25.773606
+Miami,33125,Northwest 4th Street,"Northwest 4th Street, Miami, FL 33125, United States of America",Miami-Dade Transit,bus_stop,NW 4th St & NW 10th Av,-80.211317,25.777561
+Miami,33130,Southwest 8th Street,"Southwest 8th Street, Miami, FL 33130, United States of America",Miami-Dade Transit,bus_stop,SW 8th St & SW 13th Ct,-80.217683,25.765697
+Miami,33128,Northwest 10th Avenue,"Northwest 10th Avenue, Miami, FL 33128, United States of America",Miami-Dade Transit,bus_stop,NW 10th Av & NW 4th St,-80.211628,25.777656
+Miami,33136,Northwest 3rd Avenue,"Northwest 3rd Avenue, Miami, FL 33136, United States of America",Miami-Dade Transit,bus_stop,NW 3rd Av & NW 11th St,-80.199709,25.784771
+Miami,33136,Northwest 3rd Avenue,"Northwest 3rd Avenue, Miami, FL 33136, United States of America",Miami-Dade Transit,bus_stop,NW 3rd Av & NW 11th St,-80.199845,25.784765
+Miami,33135,Southwest 1st Street,"Southwest 1st Street, Miami, FL 33135, United States of America",Miami-Dade Transit,bus_stop,SW 1st St & SW 13th Av,-80.216059,25.772418
+Miami,33145,Southwest 13th Avenue,"Southwest 13th Avenue, Miami, FL 33145, United States of America",Miami-Dade Transit,bus_stop,SW 13th Av & SW 22nd St,-80.216084,25.750719
+Miami,33128,Northwest 10th Avenue,"Northwest 10th Avenue, Miami, FL 33128, United States of America",Miami-Dade Transit,bus_stop,NW 10th Av & NW 5th St,-80.211519,25.778655
+Miami,33128,Northwest 10th Avenue,"Northwest 10th Avenue, Miami, FL 33128, United States of America",Miami-Dade Transit,bus_stop,NW 10th Av & NW 5th St,-80.211653,25.778558
+Miami,33136,Northwest 1st Place,"Northwest 1st Place, Miami, FL 33136, United States of America",Miami-Dade Transit,bus_stop,NW 1st Pl & NW 12th St,-80.197966,25.785736
+Miami,33129,Southwest 22nd Street,"Southwest 22nd Street, Miami, FL 33129, United States of America",Miami-Dade Transit,bus_stop,SW 22nd Av & SW 13th Av,-80.216571,25.751146
+Miami,33129,Southwest 22nd Street,"Southwest 22nd Street, Miami, FL 33129, United States of America",Miami-Dade Transit,bus_stop,SW 22nd Av & SW 13th Av,-80.216448,25.750893
+Miami,33132,Biscayne Boulevard,"Biscayne Boulevard, Miami, FL 33132, United States of America",Miami-Dade Transit,bus_stop,Biscayne Bd & NE 13th St,-80.189222,25.786642
+Miami,33130,Southwest 8th Street,"Southwest 8th Street, Miami, FL 33130, United States of America",Miami-Dade Transit,bus_stop,SW 8th St & SW 15th Av,-80.219384,25.765646
+Miami,33128,West Flagler Street,"West Flagler Street, Miami, FL 33128, United States of America",Miami-Dade Transit,bus_stop,W Flagler St & NW 13th Av,-80.216597,25.773535
+Miami,33136,Northwest 1st Place,"Northwest 1st Place, Miami, FL 33136, United States of America",Miami-Dade Transit,bus_stop,NW 1st Pl & NW 13th St,-80.197865,25.786688
+Miami,33132,MacArthur Causeway Path,"MacArthur Causeway Path, Miami, FL 33132, United States of America",Miami-Dade Transit,bus_stop,NE 13th St & N Bayshore Dr,-80.187652,25.787146
+Miami,33136,Northwest 3rd Avenue,"Northwest 3rd Avenue, Miami, FL 33136, United States of America",Miami-Dade Transit,bus_stop,NW 3rd Av & NW 13th St,-80.199944,25.786487
+Miami,33135,Southwest 1st Street,"Southwest 1st Street, Miami, FL 33135, United States of America",Miami-Dade Transit,bus_stop,SW 1st St & SW 14th Av,-80.217831,25.772365
+Miami,33136,Northwest 3rd Avenue,"Northwest 3rd Avenue, Miami, FL 33136, United States of America",Miami-Dade Transit,bus_stop,NW 3rd Av & NW 13th St,-80.199794,25.786557
+Miami,33132,Biscayne Boulevard,"Biscayne Boulevard, Miami, FL 33132, United States of America",Miami-Dade Transit,bus_stop,Biscayne Bd & NE 13th St,-80.189025,25.787486
+Miami,33136,Northwest 1st Place,"Northwest 1st Place, Miami, FL 33136, United States of America",Miami-Dade Transit,bus_stop,NW 1st Pl & NW 13th St,-80.198015,25.787070
+Miami,33128,Northwest 7th Street,"Northwest 7th Street, Miami, FL 33128, United States of America",Miami-Dade Transit,bus_stop,NW 7th St & NW 10th Av,-80.212018,25.780261
+Miami,33128,Northwest 7th Street,"Northwest 7th Street, Miami, FL 33128, United States of America",Miami-Dade Transit,bus_stop,NW 7th St & NW 10th Av,-80.212054,25.780405
+Miami,33130,Southwest 7th Street,"Southwest 7th Street, Miami, FL 33130, United States of America",Miami-Dade Transit,bus_stop,SW 7th St & SW 16th Av,-80.220937,25.766605
+Miami,33136,Northwest 3rd Avenue,"Northwest 3rd Avenue, Miami, FL 33136, United States of America",Miami-Dade Transit,bus_stop,NW 3rd Av & NW 14th St,-80.199982,25.787653
+Miami,33131,Rickenbacker Causeway,"Rickenbacker Causeway, Miami, FL 33131, United States of America",Miami-Dade Transit,bus_stop,Rickenbacker Cy & Marine Stadium,-80.171350,25.741985
+Miami,33135,Southwest 1st Street,"Southwest 1st Street, Miami, FL 33135, United States of America",Miami-Dade Transit,bus_stop,SW 1st St & SW 15th Av,-80.219451,25.772314
+Miami,33128,Northwest 7th Street,"Northwest 7th Street, Miami, FL 33128, United States of America",Miami-Dade Transit,bus_stop,NW 7th St & NW 12th Av,-80.213970,25.780177
+Miami,33132,Parrot Jungle Trail,"Parrot Jungle Trail, Miami, FL 33132, United States of America",Miami-Dade Transit,bus_stop,MacArthur Cy & Watson Island,-80.175870,25.784929
+Miami,33132,Parrot Jungle Trail,"Parrot Jungle Trail, Miami, FL 33132, United States of America",Miami-Dade Transit,bus_stop,MacArthur Cy & Watson Island,-80.174740,25.784506
+Miami,33128,West Flagler Street,"West Flagler Street, Miami, FL 33128, United States of America",Miami-Dade Transit,bus_stop,W Flagler St & NW 15th Av,-80.219328,25.773453
+Miami,33128,Northwest 7th Street,"Northwest 7th Street, Miami, FL 33128, United States of America",Miami-Dade Transit,bus_stop,NW 7th St & NW 12th Av,-80.214289,25.780340
+Miami,33132,Northeast 14th Terrace,"Northeast 14th Terrace, Miami, FL 33132, United States of America",Miami-Dade Transit,bus_stop,Omni Terminal,-80.188713,25.789241
+Miami,33132,Northeast 14th Terrace,"Northeast 14th Terrace, Miami, FL 33132, United States of America",Miami-Dade Transit,bus_stop,Omni Terminal,-80.188496,25.789251
+Miami,33132,Northeast 14th Terrace,"Northeast 14th Terrace, Miami, FL 33132, United States of America",Miami-Dade Transit,bus_stop,Omni Terminal,-80.188577,25.789279
+Miami,33132,Northeast 14th Terrace,"Northeast 14th Terrace, Miami, FL 33132, United States of America",Miami-Dade Transit,bus_stop,Omni Terminal,-80.188278,25.789255
+Miami,33132,Northeast 14th Terrace,"Northeast 14th Terrace, Miami, FL 33132, United States of America",Miami-Dade Transit,bus_stop,Omni Terminal,-80.188344,25.789284
+Miami,33132,Northeast 14th Terrace,"Northeast 14th Terrace, Miami, FL 33132, United States of America",Miami-Dade Transit,bus_stop,Omni Terminal,-80.188060,25.789262
+Miami,33132,Northeast 14th Terrace,"Northeast 14th Terrace, Miami, FL 33132, United States of America",Miami-Dade Transit,bus_stop,Omni Terminal,-80.188132,25.789291
+Miami,33132,Northeast 14th Terrace,"Northeast 14th Terrace, Miami, FL 33132, United States of America",Miami-Dade Transit,bus_stop,Omni Terminal,-80.187838,25.789268
+Miami,33132,Northeast 14th Terrace,"Northeast 14th Terrace, Miami, FL 33132, United States of America",Miami-Dade Transit,bus_stop,Omni Terminal,-80.187903,25.789296
+Miami,33132,North Bayshore Drive,"North Bayshore Drive, Miami, FL 33132, United States of America",Miami-Dade Transit,bus_stop,Omni Terminal,-80.187672,25.789300
+Miami,33130,Southwest 8th Street,"Southwest 8th Street, Miami, FL 33130, United States of America",Miami-Dade Transit,bus_stop,SW 8th St & SW 17th Av,-80.222281,25.765560
+Miami,33130,Southwest 7th Street,"Southwest 7th Street, Miami, FL 33130, United States of America",Miami-Dade Transit,bus_stop,SW 7th St & SW 17th Av,-80.222232,25.766566
+Miami,33128,Northwest 7th Street,"Northwest 7th Street, Miami, FL 33128, United States of America",Miami-Dade Transit,bus_stop,NW 7th St & NW 13th Av,-80.216663,25.780086
+Miami,33145,Southwest 22nd Street,"Southwest 22nd Street, Miami, FL 33145, United States of America",City of Miami;Miami-Dade Transit,bus_stop,SW 22nd Av & SW 17th Av,-80.221596,25.750770
+Miami,33128,Northwest 7th Street,"Northwest 7th Street, Miami, FL 33128, United States of America",Miami-Dade Transit,bus_stop,NW 7th St & NW 13th Av,-80.216763,25.780254
+Miami,33135,Southwest 1st Street,"Southwest 1st Street, Miami, FL 33135, United States of America",Miami-Dade Transit,bus_stop,SW 1st St & SW 17th Av,-80.222131,25.772214
+Miami,33139,MacArthur Causeway,"MacArthur Causeway, Miami, FL 33139, United States of America",Miami-Dade Transit,bus_stop,MacArthur Cy & Fountain St,-80.164412,25.777509
+Miami,33135,West Flagler Street,"West Flagler Street, Miami, FL 33135, United States of America",Miami-Dade Transit,bus_stop,W Flagler St & NW 16th Av,-80.221610,25.773378
+Miami,33145,Southwest 22nd Street,"Southwest 22nd Street, Miami, FL 33145, United States of America",City of Miami;Miami-Dade Transit,bus_stop,SW 22nd Av & SW 17th Av,-80.222276,25.750984
+Miami Beach,33139,MacArthur Causeway,"MacArthur Causeway, Miami Beach, FL 33139, United States of America",Miami-Dade Transit,bus_stop,MacArthur Cy & Fountain St,-80.164434,25.777945
+Miami,33135,Southwest 8th Street,"Southwest 8th Street, Miami, FL 33135, United States of America",Miami-Dade Transit,bus_stop,SW 8th St & SW 18th Av,-80.224332,25.765506
+Miami,33128,Northwest 7th Street,"Northwest 7th Street, Miami, FL 33128, United States of America",Miami-Dade Transit,bus_stop,NW 7th St & NW 14th Av,-80.217836,25.780039
+Miami,33128,Northwest 7th Street,"Northwest 7th Street, Miami, FL 33128, United States of America",Miami-Dade Transit,bus_stop,NW 7th St & NW 14th Av,-80.218337,25.780219
+Miami,33135,West Flagler Street,"West Flagler Street, Miami, FL 33135, United States of America",Miami-Dade Transit,bus_stop,W Flagler St & NW 17th Ct,-80.223496,25.772944
+Miami,33135,Southwest 1st Street,"Southwest 1st Street, Miami, FL 33135, United States of America",Miami-Dade Transit,bus_stop,SW 1st St & SW 18th Av,-80.224498,25.771800
+Miami,33128,Northwest 7th Street,"Northwest 7th Street, Miami, FL 33128, United States of America",Miami-Dade Transit,bus_stop,NW 7th St & NW 15th Av,-80.219727,25.780165
+Miami,33135,Southwest 7th Street,"Southwest 7th Street, Miami, FL 33135, United States of America",Miami-Dade Transit,bus_stop,SW 7th St & SW 19th Av,-80.226320,25.766505
+Miami,33135,West Flagler Street,"West Flagler Street, Miami, FL 33135, United States of America",Miami-Dade Transit,bus_stop,W Flagler St & NW 18th Av,-80.225008,25.772806
+Miami,33135,Southwest 1st Street,"Southwest 1st Street, Miami, FL 33135, United States of America",Miami-Dade Transit,bus_stop,SW 1st St & SW 18th Ct,-80.225834,25.771597
+Miami,33125,Northwest 7th Street,"Northwest 7th Street, Miami, FL 33125, United States of America",Miami-Dade Transit,bus_stop,NW 7th St & NW 16th Av,-80.221431,25.780111
+Miami,33125,Northwest 7th Street,"Northwest 7th Street, Miami, FL 33125, United States of America",Miami-Dade Transit,bus_stop,NW 7th St & NW 16th Av,-80.221700,25.779924
+Miami,33125,Northwest 7th Street,"Northwest 7th Street, Miami, FL 33125, United States of America",Miami-Dade Transit,bus_stop,NW 7th St & NW 17th Ct,-80.223174,25.780055
+Miami,33125,Northwest 7th Street,"Northwest 7th Street, Miami, FL 33125, United States of America",Miami-Dade Transit,bus_stop,NW 7th St & NW 17th Ct,-80.223431,25.779869
